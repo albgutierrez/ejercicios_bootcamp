@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 if [ $# -lt 1 ]; then
     echo "Usage: $0 param1 [param2] [param3] ... [paramN]"
     echo 

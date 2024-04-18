@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 function check_user (){
     for user in $usuarios
