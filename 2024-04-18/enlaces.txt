@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=L_Z0BuEIRlI&t=1668s
+https://www.daypo.com/practica-1-bash-sistemas-operativos.html
+
+https://www.educatica.es/informatica/sistemas-operativos-en-red/casos-practicos/2307-scripts/scripts-de-administracion/
+https://www.educatica.es/informatica/sistemas-operativos/caso-practico-administrando-un-sistema/
+https://www.educatica.es/informatica/sistemas-operativos-en-red/casos-practicos/2305-scripts/shell-script-backup-sh/
+https://www.daypo.com/cuestionario-bash.html
+
+https://www.daypo.com/tema-6-cuestionario-practica-2-1.html
+https://www.daypo.com/practicas-sistema-operativos-3.html
+https://www.daypo.com/practicas-3-4-procesos-shell-sistemas-operativos.html
+
+https://regex101.com/
+https://ioflood.com/blog/bash-regex/
+
+https://vinuesa.github.io/intro2linux/index.html
