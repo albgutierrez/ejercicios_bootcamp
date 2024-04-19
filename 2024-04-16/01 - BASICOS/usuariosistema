@@ -1,0 +1,28 @@
+#!/bin/bash
+
+function check_user (){
+    for user in $usuarios
+    do
+        if [ $1 == $2 ]; then
+            echo 0
+        else
+            echo 1
+        fi
+    done
+}
+
+if [ $# -lt 1 ]; then
+    echo "Usage: $0 param1 [param2] [param3] ... [paramN]"
+    echo 
+    echo "Devuelve un SI si el primer parámetro coincide con algún usuario conectado o NO en caso contrario."
+    exit 1
+fi
+
+primer_parametro=$1
+usuario=$(cat /etc/passwd | awk -F":" '{ print $1 }' | grep $primer_parametro)
+if [ $? -eq 0 ]; then
+	echo "SI"
+else
+	echo "NO"
+fi
+
