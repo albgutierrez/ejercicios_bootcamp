@@ -1,7 +1,0 @@
-#!/bin/bash
-if [ $# -eq 2 ]; then
-    bc <<< "$1 * $2"
-else
-    echo "Error: Debe especificar dos parametros"
-fi
-
