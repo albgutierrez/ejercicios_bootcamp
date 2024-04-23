@@ -1,0 +1,92 @@
+Javier Soria
+19:25
+interesante para copiar un archivo y hacer el hash mientras ves el progreso
+https://www.commandlinefu.com/commands/view/28303/copy-a-file-with-progress-and-save-hash-to-a-different-file
+Javier Soria
+19:38
+tamaño particiones
+https://www.commandlinefu.com/commands/view/25983/display-disk-partition-sizes
+conexiones establecidas tcp
+https://www.commandlinefu.com/commands/view/25996/show-tcp-connections-sorted-by-host-most-connections
+Javier Soria
+19:49
+youtube to mp3
+https://www.commandlinefu.com/commands/view/25311/batch-convert-text-file-containing-youtube-links-to-mp3
+Javier Soria
+19:52
+maldad... no ejecutar https://www.commandlinefu.com/commands/view/25278/fork-bomb-dont-actually-execute
+ejecutar scripts como root #!/usr/bin/sudo /bin/bash
+Javier Soria
+19:55
+interesante para copiar un archivo y hacer el hash mientras ves el progreso
+https://www.commandlinefu.com/commands/view/28303/copy-a-file-with-progress-and-save-hash-to-a-different-file
+Tú
+19:38
+tamaño particiones
+https://www.commandlinefu.com/commands/view/25983/display-disk-partition-sizes
+conexiones establecidas tcp
+https://www.commandlinefu.com/commands/view/25996/show-tcp-connections-sorted-by-host-most-connections
+Tú
+19:49
+youtube to mp3
+https://www.commandlinefu.com/commands/view/25311/ba
+Enrique Retana
+18:31
+https://www.youtube.com/watch?v=L_Z0BuEIRlI&t=1668s
+
+https://www.daypo.com/practica-1-bash-sistemas-operativos.html
+
+https://regex101.com/
+
+https://www.educatica.es/informatica/sistemas-operativos-en-red/casos-practicos/2307-scripts/scripts-de-administracion/
+
+https://www.educatica.es/informatica/sistemas-operativos/caso-practico-administrando-un-sistema/
+
+https://www.educatica.es/informatica/sistemas-operativos-en-red/casos-practicos/2305-scripts/shell-script-backup-sh/
+
+ht
+Javier Soria
+20:25
+poner todos los archivos de un directorio en un zip
+https://www.commandlinefu.com/commands/view/25081/individually-7zip-all-files-in-current-directory
+Javier Soria
+20:26
+mover muchos archivos
+https://www.commandlinefu.com/commands/view/25061/moving-large-number-of-files
+Javier Soria
+20:28
+interesante para ver estructura de directorios y sus permisos y usuarios
+https://www.commandlinefu.com/commands/view/25042/tree-command-limit-depth-for-recusive-directory-list
+Javier Soria
+20:39
+hacer que vea un terminal un canal sin canal de tv https://www.commandlinefu.com/commands/view/24930/generates-a-tv-noise-alike-output-in-the-terminal
+Javier Soria
+20:45
+comparar archivos https://www.commandlinefu.com/commands/view/24884/show-the-difference
+Javier Soria
+21:01
+porcentaje de memoria usada por los 10 primeros procesos https://www.commandlinefu.com/commands/view/24716/top-10-memory-processes-reduced-output-to-applications-and-usage-only
+Javier Soria
+21:09
+bateria o cable
+https://www.commandlinefu.com/commands/view/24655/check-whether-laptop-is-running-on-battery-or-cable
+https://www.commandlinefu.com/commands/view/24654/check-whether-laptop-is-running-on-battery-or-cable
+Javier Soria
+21:21
+mirar solo archivos de hoy https://www.commandlinefu.com/commands/view/24605/listing-todays-files-only
+no hacerrr no hacer NOOOO. resetear disco duro https://www.commandlinefu.com/commands/view/24591/factory-reset-your-harddrive.-be-careful
+Javier Soria
+21:22
+contraseñas wifi almacenadas https://www.commandlinefu.com/commands/view/24592/find-passwords-that-has-been-stored-as-plain-text-in-networkmanager
+Javier Soria
+21:25
+generar contraseñas al azar de 30 caracteres
+https://www.commandlinefu.com/commands/view/24568/generate-a-random-password-30-characters-long
+Javier Soria
+21:26
+pwgen 30 1
+Javier Soria
+21:29
+pwgen 10 5 -C -nsyB
+
+sij-rjay-upy
