@@ -1,0 +1,19 @@
+https://www.learnpython.org/en/Welcome
+
+javier.soria [-at-] immune.institute
+
+uso de dd en linux https://blog.desdelinux.net/uso-del-comando-dd/
+
+el compilador para bash https://www.mycompiler.io/es/new/bash
+
+https://www.tutorialspoint.com/execute_bash_online.php
+https://www.onlinegdb.com/online_bash_shell
+
+AWK tutoriales
+http://www.linuxfocus.org/Castellano/September1999/article103.html
+https://phoenixnap.com/kb/awk-command-in-linux
+https://www.um.es/innova/OCW/informatica-para-universitarios/ipu_docs/la_shell/awk.pdf
+
+https://www.educatica.es/sistemas-operativos/ubuntu-18-04-desktop-lts/sistema-gnu-linux-comandos-ficheros-y-funcionamiento/actividades-comandos-y-scripts/3/#Ejercicios_basicos
+
+https://github.com/Euronymou5/Spyrod-v2
