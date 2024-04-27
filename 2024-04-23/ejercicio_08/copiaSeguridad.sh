@@ -26,4 +26,4 @@ rutaOrigen=$(cat /etc/passwd | grep $usuario | cut -d":" -f6)
 if [ ! -d $rutaDestino ]; then
     mkdir -p $rutaDestino
 fi
-cp -arv $rutaOrigen/* $rutaDestino
+cp -rv --preserve $rutaOrigen/* $rutaDestino
