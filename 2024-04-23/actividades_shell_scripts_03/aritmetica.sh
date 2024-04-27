@@ -1,9 +1,5 @@
 #!/bin/bash
-
-function Error() {
-    echo "Error $1: $2"
-    exit $1
-}
+source funciones.sh
 
 if [ $# -ne 2 ]; then
     Error 1 "Debe introducir dos numeros"

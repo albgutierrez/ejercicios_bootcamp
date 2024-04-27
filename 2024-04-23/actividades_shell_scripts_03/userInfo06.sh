@@ -3,10 +3,7 @@
 #
 # Autor: Alberto Gutierrez - 2024-04-25
 
-function Error() {
-    echo "Error $1: $2"
-    exit $1
-}
+source funciones.sh
 
 if [ $# -ne 1 ]; then
     Error -1 "Debe especificar un nombre de usuario"
