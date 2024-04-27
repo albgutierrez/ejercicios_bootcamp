@@ -14,8 +14,7 @@ if [ $? -ne 0 ]; then
     exit 2
 fi
 
-# Lo hacemos así por requermiento del enunciado
-homeDir="/home/$1"
+homeDir=$(cat /etc/passwd | grep $1 | cut -d":" -f6)
 
 if [ ! -d $homeDir ]; then
     echo "Error: No existe el directorio personal del usuario"
