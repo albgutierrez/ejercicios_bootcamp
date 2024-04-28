@@ -29,7 +29,7 @@ function Borrar() {
 }
 
 ####################### INICIO DEL SCRIPT #######################
-usuarios="marinapg alfredoff ramonam"
+usuarios="alfredoff marinapg ramonam jesusrp rosarp evaha miguelmp"
 grupos="empresa reporteros editores"
 
 # Comprobar si somos root para poder crear usuarios y grupos en el sistema
