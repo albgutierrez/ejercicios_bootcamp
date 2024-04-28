@@ -30,7 +30,7 @@ function Borrar() {
 
 ####################### INICIO DEL SCRIPT #######################
 usuarios="alfredoff marinapg ramonam jesusrp rosarp evaha miguelmp"
-grupos="empresa reporteros editores"
+grupos="empresa reporteros empleados directivos redactores editores clientes bloqueados"
 
 # Comprobar si somos root para poder crear usuarios y grupos en el sistema
 if [ "$(id -u)" -ne 0 ]; then
