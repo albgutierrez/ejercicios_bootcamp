@@ -5,26 +5,34 @@
 function Crear() {
     for grupo in $grupos
     do
-        echo "Creando grupo $grupo"
-        sudo groupadd $grupo
+        if ! getent group $grupo &> /dev/null; then
+            echo "Creando grupo $grupo" 
+            sudo groupadd $grupo
+        fi
     done
     for usuario in $usuarios
     do
-        echo "Creando usuario $usuario"
-        sudo useradd -m -G empresa $usuario  
+        if ! id $usuario &> /dev/null; then
+            echo "Creando usuario $usuario"
+            sudo useradd -m -G empresa $usuario &> /dev/null
+        fi
     done
 }
 
 function Borrar() {
     for usuario in $usuarios
     do
-        echo "Borrando usuario $usuario"
-        sudo userdel -r $usuario
+        if id $usuario &> /dev/null; then
+            echo "Borrando usuario $usuario"
+            sudo userdel -r $usuario &> /dev/null
+        fi
     done
     for grupo in $grupos
     do
-        echo "Borrando grupo $grupo"
-        sudo groupdel $grupo
+        if getent group $grupo &> /dev/null; then
+            echo "Borrando grupo $grupo"
+            sudo groupdel $grupo &> /dev/null
+        fi
     done
 }
 
